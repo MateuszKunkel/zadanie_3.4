@@ -7,6 +7,7 @@ print("Lista zakupów:")
 
 suma_zakupow = 0
 
+#tutaj powinien znajdowac się dodatkowy commit numer 2. Tak, te hasztagi to commity.
 for i in slownik:
     suma_zakupow += len(slownik[i])
     print(f"Idę do {i.capitalize()}, kupuję tu następujące rzeczy: {', '.join([a.title() for a in slownik[i]])}")
