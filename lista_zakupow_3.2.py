@@ -14,5 +14,3 @@ for i in slownik:
 
 #tutaj powinien znajdowac się dodatkowy commit numer 1
 print(f"W sumie kupiłem {suma_zakupow} rzeczy.")
-
-print("a te pozdrawiające pozdrowienia znajdą się tylko i wyłącznie w pozdrawiającym branchu nazwanym per 'pozdrowienia'")
